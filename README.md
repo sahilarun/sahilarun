@@ -10,26 +10,66 @@ contact with me then you can best do so by joining [my Discord server](https://d
 This is the place where I opensource stuff and break things....`😅`
 
 - A little more about me...
-```javascript
-const sahilarun = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Kotlin", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+```kotlin
+void main() {
+  const websiteUrl = 'sahilarun.online';
+  
+  final me = PersonalInfo(
+    title: 'Senior Flutter Engineer',
+    contacInfo: ContactInfo(
+      email: Uri.parse('mailto:sahilarun777@gmail.com'),
+      github: Uri.https('github.com', 'sahilarun'),
+      portfolio: Uri.https('sahilarun.online'),
+      instagram: Uri.https('instagram.com', 'https.sahilxd'),
+      website: Uri.https(websiteUrl),
+      resume: Uri.https(websiteUrl, 'downloads/sahilresume().pdf'),
+    ),
+    flutterInfo: FlutterInfo(
+      experienceYears: '3+',
+      projectsCount: 'Many!', // And counting... :)
+      // Apps published on various stores
+      apps: <Store>[
+        // iOS apps in the App Store
+        AppStore(
+          hasPublishedApps: true,
+          appsCount: 4,
+        ),
+        // Android apps in the Play Store
+        PlayStore(
+          hasPublishedApps: true,
+          appsCount: 6,
+        ),
+      ],
+      architecturesAndTools: <String>[
+        'Flutter App',
+        'Clean Architecture',
+        'Firebase',
+        'MongoDB',
+        'Parse Server',
+      ],
+    ),
+    otherSkills: <String>[ // The most relevant
+      'UI / UX',
+      'MongoDB',
+      'JavaScript',
+      'NodeJS',
+      'HTML / CSS',
+      'TypeScript',
+      'Express'
+    ],
+    projects: <Project>[
+      Project(
+        'Taskly - App Template',
+        role: 'Senior Flutter Engineer',
+        platforms: Platforms(ios: true, android: true),
+        url: Uri.https('sahilarun.online'),
+      ),
+    ],
+  )..setStatus(
+    learningCoolStuff: true,
+    openToNewProjects: true,
+  );
+}
 ```
 
 ### Some stats!
