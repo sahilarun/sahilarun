@@ -1,15 +1,12 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=130F41&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Sahil Arun!%22;%22Welcome+to+my+profile!%22" alt="Hello it's me Sahil Arun" />
-
-My name is Sahil Arun, I am from Odisha (India), and I am an enthusiast videogame development student focused in programming.
-
+<h2> Hi, I'm Sahil Arun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.discordapp.net/attachments/1083016967025340506/1192711679549648937/Choi_jinyoung_icons_-_Seasons_of_blossom.jpg?ex=65aa124f&is=65979d4f&hm=647de4c96b4a279a9daea4ec079f7c24b88e555ea9fe9e1f859d63870589e27d&" width="230">
 I'm mostly active on **[Discord]** and **[Instagram]**, so if you ever want to get in
 contact with me then you can best do so by joining [my Discord server](https://discord.gg/nxtop) or
-[Inatagram](https://instagram.com/https.sahilxd).
+[Inatagram](https://instagram.com/https.sahilxd).<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 This is the place where I opensource stuff and break things....`😅`
 
-- A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```kotlin
 void main() {
   const websiteUrl = 'sahilarun.online';
@@ -84,11 +81,4 @@ void main() {
   </tr>
 </table>
 
-### Discord!
-<table>
-    <td align="right" style="padding=0;width=50%;">
-  <a href="https://discord.com/users/972757228463489054" target="_blank">
-	<img align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/972757228463489054?bg=0,000000,130F40&showDisplayName=true&hideBadges=true&idleMessage=Probably%20doing%20something%20else...&borderRadius=5px">
-   </a>
-    </td>
-</table>
+<img src="https://images-ext-1.discordapp.net/external/Ga5P5d0KrWFFyRdf9S7xv5sEBYx1A74pZTzK72zWz44/https/cdn.discordapp.com/emojis/1184790135691284561.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
