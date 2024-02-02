@@ -80,5 +80,3 @@ void main() {
     </td>
   </tr>
 </table>
-
-<img src="https://images-ext-1.discordapp.net/external/Ga5P5d0KrWFFyRdf9S7xv5sEBYx1A74pZTzK72zWz44/https/cdn.discordapp.com/emojis/1184790135691284561.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
