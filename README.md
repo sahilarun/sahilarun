@@ -1,8 +1,9 @@
 <h2> Hi, I'm Sahil Arun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.discordapp.net/attachments/1083016967025340506/1192711679549648937/Choi_jinyoung_icons_-_Seasons_of_blossom.jpg?ex=65aa124f&is=65979d4f&hm=647de4c96b4a279a9daea4ec079f7c24b88e555ea9fe9e1f859d63870589e27d&" width="230">
-I'm mostly active on **[Discord]** and **[Instagram]**, so if you ever want to get in
-contact with me then you can best do so by joining [my Discord server](https://discord.gg/resource) or
-[Inatagram](https://instagram.com/https.sahilxd).<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+
+<a href="https://github.com/sahilarun">
+    <img src="https://github-stats-alpha.vercel.app/api?username=sahilarun&cc=080808&tc=00ffb9&ic=fff&bc=0000">
+</a>
 
 This is the place where I opensource stuff and break things....`😅`
 
@@ -70,13 +71,16 @@ void main() {
 ```
 
 ### Some stats!
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=sahilarun&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilarun&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-    </td>
-  </tr>
-</table>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilarun&theme=dark) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilarun&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilarun&theme=dark)
+
+
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dhddg2v6ovy7maxjdlzjk3fohq&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31dhddg2v6ovy7maxjdlzjk3fohq)
