@@ -77,7 +77,9 @@ void main() {
 My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilarun&theme=dark) 
-<a href="https://github.com/zerexly?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=zerexly&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="100%" alt="@zerexly's github-readme-streak-stats"/></a>
+
+![](https://github-readme-streak-stats.herokuapp.com?user=sahilarun&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilarun&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilarun&theme=dark)
 
