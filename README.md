@@ -1,11 +1,9 @@
 <h2> Hi, I'm Sahil Arun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.discordapp.net/attachments/1083016967025340506/1192711679549648937/Choi_jinyoung_icons_-_Seasons_of_blossom.jpg?ex=65aa124f&is=65979d4f&hm=647de4c96b4a279a9daea4ec079f7c24b88e555ea9fe9e1f859d63870589e27d&" width="230">
+<img src="https://media.discordapp.net/attachments/1176948437623767172/1205122362840973332/Aesthetic_Gif.gif?ex=65d738a9&is=65c4c3a9&hm=95923665ffd62f13c02bd0bb3fb6ad47d50beefd29e617c023eed865048af1e1&">
 
-<br>
 <a href="https://github.com/sahilarun">
     <img src="https://github-stats-alpha.vercel.app/api?username=sahilarun&cc=080808&tc=00ffb9&ic=fff&bc=0000">
 </a>
-</br>
 
 This is the place where I opensource stuff and break things....`😅`
 
