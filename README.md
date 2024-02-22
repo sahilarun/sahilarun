@@ -1,6 +1,8 @@
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
 	<img src="https://api.statusbadges.me/badge/status/1193982492676464892"/> <img src="https://komarev.com/ghpvc/?username=sahilarun&color=00ffb9" alt="watching_count" /><br>
 	<img src="https://github-stats-alpha.vercel.app/api?username=sahilarun&cc=080808&tc=00ffb9&ic=fff&bc=0000">
+ 
+![playing](https://api.statusbadges.me/badge/playing/1193982492676464892)  ![vscode](https://api.statusbadges.me/badge/vscode/1193982492676464892)
 	<br>
 	<h2> Hi, I'm Sahil Arun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 	<br><br>
