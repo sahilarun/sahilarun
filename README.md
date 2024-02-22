@@ -77,7 +77,7 @@ void main() {
 <table align="center">
 	<tr>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilarun&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" draggable="false">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilarun&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" draggable="false">
 		</td>
 		<td width="1200px">
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilarun&theme=dark" draggable="false">
@@ -85,5 +85,5 @@ void main() {
 	</tr>
 </table>
 
-<a href="http://www.github.com/sahilarun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilarun&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sahilarun"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilarun&theme=dark" /></a>
 </details>
