@@ -21,7 +21,7 @@ void main() {
       email: Uri.parse('mailto:sahilarun777@gmail.com'),
       github: Uri.https('github.com', 'sahilarun'),
       portfolio: Uri.https('sahilarun.online'),
-      instagram: Uri.https('instagram.com', 'https.sahilxd'),
+      instagram: Uri.https('instagram.com', 'ahilwrite'),
       website: Uri.https(websiteUrl),
       resume: Uri.https(websiteUrl, 'downloads/sahilresume().pdf'),
     ),
