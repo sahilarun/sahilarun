@@ -1,5 +1,5 @@
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
-	<img src="https://api.statusbadges.me/badge/status/1193982492676464892"/> <img src="https://komarev.com/ghpvc/?username=sahilarun&color=00ffb9" alt="watching_count" /><br>
+	<img src="https://cdn.discordapp.com/attachments/1209916435980091492/1226411393188892714/936822ea2d97d6c457c5594900ef65f9.jpg?ex=6624ab9d&is=6612369d&hm=df8233e0bf7669f0b17696f42eef83bf5bda24365dd92bb729102ba06d9f9c05&"/><br>
 	<img src="https://github-stats-alpha.vercel.app/api?username=sahilarun&cc=080808&tc=00ffb9&ic=fff&bc=0000">
  
 ![playing](https://api.statusbadges.me/badge/playing/1193982492676464892)  ![vscode](https://api.statusbadges.me/badge/vscode/1193982492676464892)
