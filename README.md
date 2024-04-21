@@ -1,9 +1,7 @@
-<div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
-	<img src="https://github-stats-alpha.vercel.app/api?username=sahilarun&cc=080808&tc=00ffb9&ic=fff&bc=0000">
-	<br>
-	<h2> Hi, I'm Sahil Arun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
-	<br><br>
-</div>
+<div align="center">
+  <br />
+  <img src="https://github.com/sahilarun/sahilarun/blob/main/assets/sahilbanner2.png" alt="Banner">
+  <br />
 
 This is the place where I opensource stuff and break things....`😅`
 
@@ -84,3 +82,5 @@ void main() {
 
 <a href="http://www.github.com/sahilarun"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilarun&theme=dark" /></a>
 </details>
+
+</div>
